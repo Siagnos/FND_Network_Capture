@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Please cite the associated Das et al. manuscript and this code repository when using these scripts."
+title: "FND Network Capture: figure generation and dynamical-model validation"
+type: software
+license: MIT
+authors:
+  - family-names: Das
+    given-names: Abhijit
+  - family-names: Dutta
+    given-names: Anirban
+repository-code: "https://github.com/Siagnos/FND_Network_Capture"
